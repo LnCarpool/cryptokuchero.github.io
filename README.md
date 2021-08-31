@@ -1,4 +1,4 @@
-# CryptoKuchero
+# LnCarpool
 
 How to run a carpool based on BTC-Lightning.
 
